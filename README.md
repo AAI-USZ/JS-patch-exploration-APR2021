@@ -487,3 +487,6 @@ Where:
 |Eslint_94 |7       |-1   |-1   |-1  |
 |Eslint_94 |8       |-1   |-1   |-1  |
 |Eslint_94 |9       |-1   |-1   |-1  |
+
+# Acknowledgement
+The research presented in this paper was supported in part by the ÚNKP-20-3-SZTE and ÚNKP-20-5-SZTE New National Excellence Programs, by grant NKFIH-1279-2/2020 and by the Artificial Intelligence National Laboratory Programme of the Ministry of Innovation and the National Research, Development and Innovation Office. László Vidács was also funded by the János Bolyai Scholarship of the Hungarian Academy of Sciences.
