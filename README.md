@@ -2,6 +2,9 @@
 
 This repository contains open science data used in the paper **Exploring Plausible Patches Using Source Code Embeddings in JavaScript**.
 
+If you use this data for academic purposes, please cite the appropriate publication:
+Viktor Csuvik, Dániel Horváth, Márk Lajkó, László Vidács, [Exploring Plausible Patches Using Source Code Embeddings in JavaScript](https://arxiv.org/abs/2103.16846)
+
 Candidate patches can be found under the `candidate_patches` folder. The `eslint_i` subfolder contains the candidate patches for the `i`-th bug. In these subfolders 3 different naming conventions are used:
  - `Eslint_i_buggy.js`: the original (buggy) program of Eslint_i
  - `Eslint_i_dev.js`: the developer fix
